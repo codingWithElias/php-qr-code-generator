@@ -1,0 +1,1 @@
+PHP QR Code Library: https://github.com/t0k4rt/phpqrcode
